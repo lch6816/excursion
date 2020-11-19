@@ -8,6 +8,11 @@ body {
 .header--main {
     font-weight: normal;
     font-size: 50;
-    color: blanchedalmond;
+    color: white;
     
+}
+
+.link--cta {
+    font-size: 16;
+    color: turquoise;
 }
